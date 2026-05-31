@@ -16,7 +16,7 @@ This Power BI dashboard analyzes e-commerce sales performance using interactive 
 - Data Visualization
 
 ## Dashboard Preview
-Screenshot added below.
+https://github.com/MMGanavi/Meera-Ecommerce-Sales-Dashboard/blob/main/dashboard%20preview.png.png?raw=true
 
 ## Key Insights
 - Identified top-performing categories
